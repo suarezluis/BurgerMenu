@@ -17,7 +17,7 @@ body{
     width: 100vw;
     height: 100vh;
     background: radial-gradient(rgba(0,0,0,0) 0%,rgba(0,0,0,0.5)); 
-    
+    overflow: hidden;
 }
 a{
     text-decoration: none;
@@ -49,6 +49,5 @@ a{
     position: relative;
     right: 200vw;
 }
-
 
 
